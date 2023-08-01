@@ -3,8 +3,8 @@
 [https://www.google.com/maps/d/u/0/edit?mid=1k7HkKDeDbCgcIBJlXe817UNvD-sgGng&usp=sharing](https://www.google.com/maps/d/u/0/edit?mid=1k7HkKDeDbCgcIBJlXe817UNvD-sgGng&usp=sharing)
 
 ### 導入方法
-基本的には上記URLをクリックするだけですが、表示される物が以下のように異なります。
-一度マイマップに保存されると地図は自動で最新版になります。
+基本的には上記URLをクリックするだけですが、表示される物が以下のように異なります。  
+一度マイマップに地図が保存されるとその後は自動で最新版になります。
 - iOSの場合
   - Google mapをインストールしている場合
     - Google mapにログインしている場合
